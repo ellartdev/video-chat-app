@@ -1,0 +1,17 @@
+{
+  "name": "video-chat-app",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "predeploy": "vite build",
+    "deploy": "firebase deploy"
+  },
+  "devDependencies": {
+    "vite": "^2.1.0"
+  },
+  "dependencies": {
+    "firebase": "^8.3.1"
+  }
+}

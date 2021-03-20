@@ -1,0 +1,21 @@
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+}
+
+video {
+  width: 40vh;
+  height: 30vw;
+  margin: 1rem;
+  background: #6e7379;
+}
+
+.videos {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
